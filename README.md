@@ -1,7 +1,7 @@
 Interspeech 2022 babbling samples
 =================================
 
-This repository contains articulatory synthesis samples from the simulation of babbling presented in the following paper submitted to Interspeech 2022:
+This repository contains [articulatory synthesis](https://en.wikipedia.org/wiki/Articulatory_synthesis) samples from the simulation of babbling presented in the following paper submitted to Interspeech 2022:
 
 **Exploration strategies for articulatory synthesis of complex syllable onsets**
 
