@@ -8,6 +8,6 @@ This repository contains articulatory synthesis samples from the simulation of b
 *Daniel R. van Niekerk, Anqi Xu, Branislav Gerazov, Paul K. Krug, Peter Birkholz, Yi Xu*
 
 ---
-**[Follow this link](https://danielshaps.github.io/#is2022) to listen to the samples without downloading.**
+**[Follow this link](https://danielshaps.github.io/#is2022-1) to listen to the samples without downloading.**
 
 Or, clone the repository and download all the samples using [Git Large File Storage](https://git-lfs.github.com/).
